@@ -4,7 +4,7 @@ The Library Management System with Password Authentication is a software applica
 ## Features
  1.Authentication: The system requires librarian to authenticate themselves for making or performing any changes.
  2.User Roles: The system supports librarian and user.
- 3.Password Encryption: User passwords are stored in an encrypted format using modern cryptographic algorithms, ensuring security and confidentiality.
+ 3.Password Encryption: User passwords are stored in an encrypted format.
  4.Book Management: The system allows librarians to add, edit, and delete books from the library database. Each book record contains information such as 
   Book's Name,Author's Name,Publication name,Book's ID ,Book's Price,Book's Quantity.
  5.Search Functionality: Users can search for books by title, author, or other relevant attributes. The system provides search results, helping 
